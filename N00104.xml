@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000158_0000_0FA2B5703617FA08"/>
-            <pb facs="tcp:000158_0001_0FA2B570FA38B190"/>
+            <pb facs="unknown:000158_0000_0FA2B5703617FA08"/>
+            <pb facs="unknown:000158_0001_0FA2B570FA38B190"/>
             <p>MEAT OUT OF THE EATER: OR, MEDITATIONS Concerning The Necessity, End, and Usefulness of AFFLICTIONS Unto Gods Children.</p>
             <p>All tending to Prepare them <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -130,7 +130,7 @@
       <body>
          <div type="poems">
             <pb n="3"
-                facs="tcp:000158_0002_0FA2B571B55D8B78"
+                facs="unknown:000158_0002_0FA2B571B55D8B78"
                 rendition="simple:additions"/>
             <head>Tolle Crucem. All Christians must be Cross bearers.</head>
             <l>If any man will my Disciple <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -159,7 +159,7 @@
                   <l>Through Sufferings chearfully.</l>
                </lg>
                <lg n="2">
-                  <pb n="4" facs="tcp:000158_0003_0FA2B5739920E450"/>
+                  <pb n="4" facs="unknown:000158_0003_0FA2B5739920E450"/>
                   <head>[2]</head>
                   <l>Not onely lighter Griefs</l>
                   <l>
@@ -194,7 +194,7 @@
                   <l>Where Saints shall rest secure.</l>
                </lg>
                <lg n="5">
-                  <pb n="5" facs="tcp:000158_0004_0FA2B574EF87F800"/>
+                  <pb n="5" facs="unknown:000158_0004_0FA2B574EF87F800"/>
                   <head>[5]</head>
                   <l>Our way is up the Hill,</l>
                   <l>Which mounteth to the Skies:</l>
@@ -233,7 +233,7 @@
                   <l>That daily therein tread.</l>
                </lg>
                <lg n="8">
-                  <pb n="6" facs="tcp:000158_0005_0FA2B57625ACFD30"/>
+                  <pb n="6" facs="unknown:000158_0005_0FA2B57625ACFD30"/>
                   <head>[8]</head>
                   <l>Let others take their choice,</l>
                   <l>And run what way they please;</l>
@@ -267,7 +267,7 @@
                   <l>In this our frail condition.</l>
                </lg>
                <lg n="2">
-                  <pb n="7" facs="tcp:000158_0006_0FA2B5777640B3D0"/>
+                  <pb n="7" facs="unknown:000158_0006_0FA2B5777640B3D0"/>
                   <head>[2]</head>
                   <l>These are the Common-Lot</l>
                   <l>Of all God's Children dear.</l>
@@ -304,7 +304,7 @@
                   <l>For such as them opprest.</l>
                </lg>
                <lg n="5">
-                  <pb n="8" facs="tcp:000158_0007_0FA2B577EECDC020"/>
+                  <pb n="8" facs="unknown:000158_0007_0FA2B577EECDC020"/>
                   <head>[5]</head>
                   <l>All that Christ's Members are</l>
                   <l>Must be made like their Head:</l>
@@ -348,7 +348,7 @@
                </lg>
             </div>
             <div n="3" type="meditation">
-               <pb n="9" facs="tcp:000158_0008_0FA2B578765E07A0"/>
+               <pb n="9" facs="unknown:000158_0008_0FA2B578765E07A0"/>
                <head>Meditation III.</head>
                <l>The third doth further hint at th' Ends</l>
                <l>For which the Lord Affliction sends.</l>
@@ -378,7 +378,7 @@
                   <l>Have found them very gainful.</l>
                </lg>
                <lg n="3">
-                  <pb n="10" facs="tcp:000158_0009_0FA2B57939F80EB0"/>
+                  <pb n="10" facs="unknown:000158_0009_0FA2B57939F80EB0"/>
                   <head>[3]</head>
                   <l>
                      <note place="margin">Psal. 119.67.</note>Before I was chastis'd,</l>
@@ -419,7 +419,7 @@
                      </gap>anse, and subdue them more.</l>
                </lg>
                <lg n="6">
-                  <pb n="11" facs="tcp:000158_0010_0FA2B57A00C75F10"/>
+                  <pb n="11" facs="unknown:000158_0010_0FA2B57A00C75F10"/>
                   <head>[6]</head>
                   <l>Much Honey turns to Gall</l>
                   <l>And Cholerick excess;</l>
@@ -459,7 +459,7 @@
                   <l>Mingleth our Wine with Water.</l>
                </lg>
                <lg n="9">
-                  <pb n="12" facs="tcp:000158_0011_0FA2B57AC17FFCC8"/>
+                  <pb n="12" facs="unknown:000158_0011_0FA2B57AC17FFCC8"/>
                   <head>[9]</head>
                   <l>Afflictions are like Ballast</l>
                   <l>I'th' Bottom of a Ship;</l>
@@ -496,7 +496,7 @@
                </lg>
             </div>
             <div n="4" type="meditation">
-               <pb n="13" facs="tcp:000158_0012_0FA2B57BA695DA78"/>
+               <pb n="13" facs="unknown:000158_0012_0FA2B57BA695DA78"/>
                <head>Meditation IV.</head>
                <l>The fourth by various Arguments</l>
                <l>Strives to beat down all Discontents,</l>
@@ -527,7 +527,7 @@
                   <l>He doth Affliction send.</l>
                </lg>
                <lg n="3">
-                  <pb n="14" facs="tcp:000158_0013_0FA2B57C460E9150"/>
+                  <pb n="14" facs="unknown:000158_0013_0FA2B57C460E9150"/>
                   <head>[3]</head>
                   <l>
                      <note place="margin">Iam. 3.33.</note>He that unwillingly</l>
@@ -567,7 +567,7 @@
                   <l>That would his Follower be.</l>
                </lg>
                <lg n="6">
-                  <pb n="15" facs="tcp:000158_0014_0FA2B72E857C0D80"/>
+                  <pb n="15" facs="unknown:000158_0014_0FA2B72E857C0D80"/>
                   <head>[6]</head>
                   <l>Why should'st thou think it strange<note place="margin">1 Pet. 4.12.</note>
                   </l>
@@ -604,7 +604,7 @@
                   <l>A sanctified thing.</l>
                </lg>
                <lg n="9">
-                  <pb n="16" facs="tcp:000158_0015_0FA2B72F40322008"/>
+                  <pb n="16" facs="unknown:000158_0015_0FA2B72F40322008"/>
                   <head>[9]</head>
                   <l>Therefore take up the Cross;</l>
                   <l>The Rod in meekness kiss:</l>
@@ -645,7 +645,7 @@
                   <l>And Souls that he hath made.</l>
                </lg>
                <lg n="12">
-                  <pb n="17" facs="tcp:000158_0016_0FA2B73026803768"/>
+                  <pb n="17" facs="unknown:000158_0016_0FA2B73026803768"/>
                   <head>[12]</head>
                   <l>Thou cravest oft a pledge<note place="margin">Heb. 12.7</note>
                   </l>
@@ -683,7 +683,7 @@
                </lg>
             </div>
             <div n="5" type="meditation">
-               <pb n="18" facs="tcp:000158_0017_0FA2B730E0EA5888"/>
+               <pb n="18" facs="unknown:000158_0017_0FA2B730E0EA5888"/>
                <head>Meditation V.</head>
                <l>The fifth perswades to Patience,</l>
                <l>From that rich future Recompence;</l>
@@ -717,7 +717,7 @@
                   <l>Nor labour shall be vain.</l>
                </lg>
                <lg n="3">
-                  <pb n="19" facs="tcp:000158_0018_0FA2B7318F3A6448"/>
+                  <pb n="19" facs="unknown:000158_0018_0FA2B7318F3A6448"/>
                   <head>[3]</head>
                   <l>Reign with him long shall they,<note place="margin">1 Tim. 2<g ref="char:punc">▪</g> 12.</note>
                   </l>
@@ -759,7 +759,7 @@
                   <l>Enjoy long rest and ease.</l>
                </lg>
                <lg n="6">
-                  <pb n="20" facs="tcp:000158_0019_0FA2B732517901D8"/>
+                  <pb n="20" facs="unknown:000158_0019_0FA2B732517901D8"/>
                   <head>[6]</head>
                   <l>What if thy conflict with</l>
                   <l>The roaring Lion be?</l>
@@ -798,7 +798,7 @@
                   <l>Ev'n from the worlds foundation.</l>
                </lg>
                <lg n="9">
-                  <pb n="21" facs="tcp:000158_0020_0FA2B732F866F318"/>
+                  <pb n="21" facs="unknown:000158_0020_0FA2B732F866F318"/>
                   <head>[9]</head>
                   <l>O Heaven, most holy place,</l>
                   <l>Which art our Country dear<g ref="char:punc">▪</g>
@@ -825,7 +825,7 @@
                </lg>
             </div>
             <div n="6" type="meditation">
-               <pb n="22" facs="tcp:000158_0021_0FA2B733BA444A50"/>
+               <pb n="22" facs="unknown:000158_0021_0FA2B733BA444A50"/>
                <head>Meditation VI.</head>
                <l>Christ's Sufferings are our Copy-book,</l>
                <l>Whereon we often ought to look.</l>
@@ -854,7 +854,7 @@
                   <l>His far exceeded thine.</l>
                </lg>
                <lg n="3">
-                  <pb n="23" facs="tcp:000158_0022_0FA2B7347AD5D038"/>
+                  <pb n="23" facs="unknown:000158_0022_0FA2B7347AD5D038"/>
                   <head>[3]</head>
                   <l>Art thou a Prisoner?</l>
                   <l>Our Lord himself was bound.<note place="margin">Mat. 27.2. Chap. 26.65 67, 68.</note>
@@ -897,7 +897,7 @@
                   <l>From wrath our Souls to free.</l>
                </lg>
                <lg n="6">
-                  <pb n="24" facs="tcp:000158_0023_0FA2B737354C68C0"/>
+                  <pb n="24" facs="unknown:000158_0023_0FA2B737354C68C0"/>
                   <head>[6]</head>
                   <l>If thus our Generall</l>
                   <l>
@@ -936,7 +936,7 @@
                </lg>
             </div>
             <div n="7" type="meditation">
-               <pb n="25" facs="tcp:000158_0024_0FA2B73B884F9FE0"/>
+               <pb n="25" facs="unknown:000158_0024_0FA2B73B884F9FE0"/>
                <head>Meditation VII.</head>
                <l>The worldly man's Prosperity</l>
                <l>Is onely gilded Misery.</l>
@@ -965,7 +965,7 @@
                   <l>I'th' world, who serve him not.</l>
                </lg>
                <lg n="3">
-                  <pb n="26" facs="tcp:000158_0025_0FA2B73CC87A74B8"/>
+                  <pb n="26" facs="unknown:000158_0025_0FA2B73CC87A74B8"/>
                   <head>[3]</head>
                   <l>They are afflicted less</l>
                   <l>Then God's own Children dear:</l>
@@ -1002,7 +1002,7 @@
                   <l>They have it more then double.</l>
                </lg>
                <lg n="6">
-                  <pb n="27" facs="tcp:000158_0026_0FA2B73DA229C5F8"/>
+                  <pb n="27" facs="unknown:000158_0026_0FA2B73DA229C5F8"/>
                   <head>[6]</head>
                   <l>They live and lie at ease,<note place="margin">Amos 6.4, 5, 6.</note>
                   </l>
@@ -1040,7 +1040,7 @@
                   <l>Though they still love their sin.</l>
                </lg>
                <lg n="9">
-                  <pb n="28" facs="tcp:000158_0027_0FA2B73E4BA25908"/>
+                  <pb n="28" facs="unknown:000158_0027_0FA2B73E4BA25908"/>
                   <head>[9]</head>
                   <l>
                      <note place="margin">Psal. 55.19.</note>Because they have no changes,</l>
@@ -1077,7 +1077,7 @@
                   <l>They leave for him no part.</l>
                </lg>
                <lg n="12">
-                  <pb n="29" facs="tcp:000158_0028_0FA2B73F0B87EB68"/>
+                  <pb n="29" facs="unknown:000158_0028_0FA2B73F0B87EB68"/>
                   <head>[12]</head>
                   <l>Their Riches make them proud,<note place="margin">1 Tim. 6.17.</note>
                   </l>
@@ -1118,7 +1118,7 @@
                   <l>And grow Intemperate.</l>
                </lg>
                <lg n="15">
-                  <pb n="30" facs="tcp:000158_0029_0FA2B73FD6D371E0"/>
+                  <pb n="30" facs="unknown:000158_0029_0FA2B73FD6D371E0"/>
                   <head>[15]</head>
                   <l>
                      <note place="margin">Prov 23.31, 33.</note>Their over-flowing Cups</l>
@@ -1157,7 +1157,7 @@
                   <l>They run, like greedy Dogs.</l>
                </lg>
                <lg n="18">
-                  <pb n="31" facs="tcp:000158_0030_0FA2B7409133EA58"/>
+                  <pb n="31" facs="unknown:000158_0030_0FA2B7409133EA58"/>
                   <head>[18]</head>
                   <l>Since then they chuse their Bane,</l>
                   <l>And will no warning take:</l>
@@ -1183,7 +1183,7 @@
                </lg>
             </div>
             <div n="8" type="meditation">
-               <pb n="32" facs="tcp:000158_0031_0FA2B7416DABAA68"/>
+               <pb n="32" facs="unknown:000158_0031_0FA2B7416DABAA68"/>
                <head>Meditation VIII.</head>
                <l>Saints happier be when most distrest,</l>
                <l>Then wicked men are at the best.</l>
@@ -1212,7 +1212,7 @@
                   <l>And endless misery.</l>
                </lg>
                <lg n="3">
-                  <pb n="33" facs="tcp:000158_0032_0FA2B7420CE18410"/>
+                  <pb n="33" facs="unknown:000158_0032_0FA2B7420CE18410"/>
                   <head>[3]</head>
                   <l>The less Affliction here<note place="margin">Luke 16.23, 24, 25.</note>
                   </l>
@@ -1247,7 +1247,7 @@
                   <l>Nor him unhappy make.</l>
                </lg>
                <lg n="6">
-                  <pb n="34" facs="tcp:000158_0033_0FA2B742D5837DF8"/>
+                  <pb n="34" facs="unknown:000158_0033_0FA2B742D5837DF8"/>
                   <head>[6]</head>
                   <l>
                      <note place="margin">Isa. 43.2.</note>Plunge him into the mire,</l>
@@ -1290,7 +1290,7 @@
                </lg>
             </div>
             <div n="9" type="meditation">
-               <pb n="35" facs="tcp:000158_0034_0FA2B7450228E310"/>
+               <pb n="35" facs="unknown:000158_0034_0FA2B7450228E310"/>
                <head>Meditation IX.</head>
                <l>The Carriage of a Childe of God</l>
                <l>Vnder his Fathers smarting Rod.</l>
@@ -1323,7 +1323,7 @@
                   <l>Light strokes he dare not slight.</l>
                </lg>
                <lg n="3">
-                  <pb n="36" facs="tcp:000158_0035_0FA2B745CB6BA138"/>
+                  <pb n="36" facs="unknown:000158_0035_0FA2B745CB6BA138"/>
                   <head>[3]</head>
                   <l>If greater be the Blow,</l>
                   <l>
@@ -1372,7 +1372,7 @@
                   <l>When 'tis improv'd by Faith.</l>
                </lg>
                <lg n="6">
-                  <pb n="37" facs="tcp:000158_0036_0FA2B7471DF90CC8"/>
+                  <pb n="37" facs="unknown:000158_0036_0FA2B7471DF90CC8"/>
                   <head>[6]</head>
                   <l>And though he be unworthy</l>
                   <l>To look God in the face;</l>
@@ -1411,7 +1411,7 @@
                   <l>To scourge him all his dayes.</l>
                </lg>
                <lg n="9">
-                  <pb n="38" facs="tcp:000158_0037_0FA2B747863AD170"/>
+                  <pb n="38" facs="unknown:000158_0037_0FA2B747863AD170"/>
                   <head>[9]</head>
                   <l>
                      <note place="margin">1 Pet. 5.6.</note>Himself he humbleth under</l>
@@ -1449,7 +1449,7 @@
                   <l>may not against him rise.</l>
                </lg>
                <lg n="12">
-                  <pb n="39" facs="tcp:000158_0038_0FA2B74A08BA7B58"/>
+                  <pb n="39" facs="unknown:000158_0038_0FA2B74A08BA7B58"/>
                   <head>[12]</head>
                   <l>If murmuring thoughts do rise<note place="margin">Psal. 73.13 14, 15, 22.</note>
                   </l>
@@ -1489,7 +1489,7 @@
                   <l>Till God them out asunder.</l>
                </lg>
                <lg n="15">
-                  <pb n="40" facs="tcp:000158_0039_0FA2B74A3641E098"/>
+                  <pb n="40" facs="unknown:000158_0039_0FA2B74A3641E098"/>
                   <head>[15]</head>
                   <l>
                      <note place="margin">Gen. 8.13, 14, 16.</note>
@@ -1530,7 +1530,7 @@
                   <l>Grows stronger then before.</l>
                </lg>
                <lg n="18">
-                  <pb n="41" facs="tcp:000158_0040_0FA2B74CA05CD210"/>
+                  <pb n="41" facs="unknown:000158_0040_0FA2B74CA05CD210"/>
                   <head>[18]</head>
                   <l>The longer God afflicts him,<note place="margin">Psal. 119.67, 71. Eccles. 7.3.</note>
                   </l>
@@ -1567,7 +1567,7 @@
                   <l>Of cruel <hi>Esau</hi>'s Sword.</l>
                </lg>
                <lg n="21">
-                  <pb n="42" facs="tcp:000158_0041_0FA2B74DD7075ED8"/>
+                  <pb n="42" facs="unknown:000158_0041_0FA2B74DD7075ED8"/>
                   <head>[21]</head>
                   <l>Prince-like he wrestled</l>
                   <l>And would not let him go,</l>
@@ -1597,7 +1597,7 @@
                   <l>In middest of the fire.</l>
                </lg>
                <lg n="2">
-                  <pb n="43" facs="tcp:000158_0042_0FA2B74DF97E9120"/>
+                  <pb n="43" facs="unknown:000158_0042_0FA2B74DF97E9120"/>
                   <head>[2]</head>
                   <l>Where nothing grieves them more<note place="margin">Psal. 139.21, 22, 23, 24.</note>
                   </l>
@@ -1636,7 +1636,7 @@
                   <l>Hath looked down on me.</l>
                </lg>
                <lg n="5">
-                  <pb n="44" facs="tcp:000158_0043_0FA2B74ED5FFED70"/>
+                  <pb n="44" facs="unknown:000158_0043_0FA2B74ED5FFED70"/>
                   <head>[5]</head>
                   <l>A patient suffering Saint</l>
                   <l>Is a right comely one:</l>
@@ -1662,7 +1662,7 @@
                </lg>
             </div>
             <div type="poem">
-               <pb n="45" facs="tcp:000158_0044_0FA2B74F81BC7928"/>
+               <pb n="45" facs="unknown:000158_0044_0FA2B74F81BC7928"/>
                <head>A Conclusion Hortatory To those that are, or hereafter may be in Affliction.</head>
                <lg n="1">
                   <head>[1]</head>
@@ -1688,7 +1688,7 @@
                   <l>To bear it patiently.</l>
                </lg>
                <lg n="3">
-                  <pb n="46" facs="tcp:000158_0045_0FA2B75058C80A38"/>
+                  <pb n="46" facs="unknown:000158_0045_0FA2B75058C80A38"/>
                   <head>[3]</head>
                   <l>I have before thine eyes</l>
                   <l>An humble gracious Saint</l>
@@ -1722,7 +1722,7 @@
                   <l>Believe it how thou wilt.</l>
                </lg>
                <lg n="6">
-                  <pb n="47" facs="tcp:000158_0046_0FA2B75112441A08"/>
+                  <pb n="47" facs="unknown:000158_0046_0FA2B75112441A08"/>
                   <head>[6]</head>
                   <l>Yet I shall tell the Truth,</l>
                   <l>And nothing from thee keep;</l>
@@ -1758,7 +1758,7 @@
                   <l>And lay on seven times more.</l>
                </lg>
                <lg n="9">
-                  <pb n="48" facs="tcp:000158_0047_0FA2B751D7319F40"/>
+                  <pb n="48" facs="unknown:000158_0047_0FA2B751D7319F40"/>
                   <head>[9]</head>
                   <l>For thus he threateneth;</l>
                   <l>
@@ -1797,7 +1797,7 @@
                   <l>And turned I shall be.</l>
                </lg>
                <lg n="12">
-                  <pb n="49" facs="tcp:000158_0048_0FA2B75283237398"/>
+                  <pb n="49" facs="unknown:000158_0048_0FA2B75283237398"/>
                   <head>[12]</head>
                   <l>If <hi>Ephraim</hi> thus repent</l>
                   <l>And pray; God quickly hears,<note place="margin">Jer. 31.18, 19, 20</note>
@@ -1832,7 +1832,7 @@
                   <l>Purge out and wash away.</l>
                </lg>
                <lg n="15">
-                  <pb n="50" facs="tcp:000158_0049_0FA2B753487BEFA0"/>
+                  <pb n="50" facs="unknown:000158_0049_0FA2B753487BEFA0"/>
                   <head>[15]</head>
                   <l>
                      <note place="margin">Hos. 6.1, 2.</note>Come let's return to God,</l>
@@ -1857,7 +1857,7 @@
             </div>
          </div>
          <div type="poem">
-            <pb facs="tcp:000158_0050_0FA2B75465627328"/>
+            <pb facs="unknown:000158_0050_0FA2B75465627328"/>
             <head>RIDDLES UNRIDDLED, OR Christian Paradoxes Broke open, smelling like sweet Spice N<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>w taken out of Boxes.</head>
@@ -1869,7 +1869,7 @@
             <l>And gain where no man loseth.</l>
          </div>
          <div type="poem">
-            <pb facs="tcp:000158_0051_0FA2B756D4FA9EE8"/>
+            <pb facs="unknown:000158_0051_0FA2B756D4FA9EE8"/>
             <head>RIDDLES Unriddled OR Christian Paradoxes.</head>
             <lg>
                <l>Light in Darkness,</l>
@@ -1895,7 +1895,7 @@
             </lg>
          </div>
          <div type="poems">
-            <pb n="53" facs="tcp:000158_0052_0FA2B7576EF0FF90"/>
+            <pb n="53" facs="unknown:000158_0052_0FA2B7576EF0FF90"/>
             <head>Light in Darkness.</head>
             <l>Light in Darkness followeth next,</l>
             <l>Which holds forth Comfort from the Text</l>
@@ -1915,7 +1915,7 @@
                   <l>We purpose to entreat.</l>
                </lg>
                <lg n="2">
-                  <pb n="54" facs="tcp:000158_0053_0FA2B757C65BF1E8"/>
+                  <pb n="54" facs="unknown:000158_0053_0FA2B757C65BF1E8"/>
                   <head>[2]</head>
                   <l>
                      <note place="margin">P<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1953,7 +1953,7 @@
                   <l>Which round about them shines.</l>
                </lg>
                <lg n="5">
-                  <pb n="55" facs="tcp:000158_0054_0FA2B7587747BFA8"/>
+                  <pb n="55" facs="unknown:000158_0054_0FA2B7587747BFA8"/>
                   <head>[5]</head>
                   <l>Sometimes they doubtful are</l>
                   <l>Concerning their estates:</l>
@@ -1999,7 +1999,7 @@
                   <l>And him their Portion make.</l>
                </lg>
                <lg n="8">
-                  <pb n="56" facs="tcp:000158_0055_0FA2B7596C3AE810"/>
+                  <pb n="56" facs="unknown:000158_0055_0FA2B7596C3AE810"/>
                   <head>[8]</head>
                   <l>Come, poor distressed Souls,</l>
                   <l>And hear your Grievances:</l>
@@ -2030,7 +2030,7 @@
                      <l>As much afflicted been?</l>
                   </lg>
                   <lg n="2">
-                     <pb n="57" facs="tcp:000158_0056_0FA2B759F4D0DBD8"/>
+                     <pb n="57" facs="unknown:000158_0056_0FA2B759F4D0DBD8"/>
                      <head>[2]</head>
                      <l>Hast thou no part in God?</l>
                      <l>Or doth he cease to love thee?</l>
@@ -2074,7 +2074,7 @@
                   </lg>
                </sp>
                <sp>
-                  <pb n="58" facs="tcp:000158_0057_0FA2B75DF9D54C40"/>
+                  <pb n="58" facs="unknown:000158_0057_0FA2B75DF9D54C40"/>
                   <speaker>Spirit.</speaker>
                   <lg n="5">
                      <head>[5]</head>
@@ -2121,7 +2121,7 @@
                </sp>
             </div>
             <div n="3" type="song">
-               <pb n="59" facs="tcp:000158_0058_0FA2B75FE0BAE800"/>
+               <pb n="59" facs="unknown:000158_0058_0FA2B75FE0BAE800"/>
                <head>SONG III.</head>
                <head type="sub">Another Dialogue or Combate between the <hi>Flesh</hi> and <hi>Spirit.</hi>
                </head>
@@ -2151,7 +2151,7 @@
                   </lg>
                </sp>
                <sp>
-                  <pb n="60" facs="tcp:000158_0059_0FA2B760092C82C0"/>
+                  <pb n="60" facs="unknown:000158_0059_0FA2B760092C82C0"/>
                   <speaker>Spirit.</speaker>
                   <lg n="3">
                      <head>[3]</head>
@@ -2202,7 +2202,7 @@
                      <l>And laboured for his bread.</l>
                   </lg>
                   <lg n="6">
-                     <pb n="61" facs="tcp:000158_0060_0FA2B760B7EA9B10"/>
+                     <pb n="61" facs="unknown:000158_0060_0FA2B760B7EA9B10"/>
                      <head>[6]</head>
                      <l>
                         <hi>Joseph</hi> an innocent,<note place="margin">Gen. 27.28.</note>
@@ -2246,7 +2246,7 @@
                      <l>Above an hundred years.</l>
                   </lg>
                   <lg n="9">
-                     <pb n="62" facs="tcp:000158_0061_0FA2B761800EC540"/>
+                     <pb n="62" facs="unknown:000158_0061_0FA2B761800EC540"/>
                      <head>[9]</head>
                      <l>
                         <note place="margin">
@@ -2291,7 +2291,7 @@
                      <l>Forc'd up and down to trace:</l>
                   </lg>
                   <lg n="12">
-                     <pb n="63" facs="tcp:000158_0062_0FA2B763E17EEF98"/>
+                     <pb n="63" facs="unknown:000158_0062_0FA2B763E17EEF98"/>
                      <head>[12]</head>
                      <l>Flying to save his life,</l>
                      <l>In Caves and Forrests hiding<g ref="char:punc">▪</g>
@@ -2338,7 +2338,7 @@
                      <l>And cast his Soul aside.</l>
                   </lg>
                   <lg n="15">
-                     <pb n="64" facs="tcp:000158_0063_0FA2B764A3B2D310"/>
+                     <pb n="64" facs="unknown:000158_0063_0FA2B764A3B2D310"/>
                      <head>[15]</head>
                      <l>Yet <hi>Heman</hi> was a Saint,</l>
                      <l>And calls the Lord his God,</l>
@@ -2377,7 +2377,7 @@
                </sp>
             </div>
             <div n="4" type="song">
-               <pb n="65" facs="tcp:000158_0064_0FA2B765717F10F8"/>
+               <pb n="65" facs="unknown:000158_0064_0FA2B765717F10F8"/>
                <head>SONG IV.</head>
                <head type="sub">A Dialogue wherein the Speakers are <hi>Distressed Conscience</hi> and <hi>Rectified Judgement.</hi>
                </head>
@@ -2407,7 +2407,7 @@
                      <l>More boisterous now then ever.</l>
                   </lg>
                   <lg n="3">
-                     <pb n="66" facs="tcp:000158_0065_0FA2B7660C7E8838"/>
+                     <pb n="66" facs="unknown:000158_0065_0FA2B7660C7E8838"/>
                      <head>[3]</head>
                      <l>
                         <note place="margin">Ezek. 24.<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2449,7 +2449,7 @@
                      <l>They do not make them more.</l>
                   </lg>
                   <lg n="6">
-                     <pb n="67" facs="tcp:000158_0066_0FA2B766BB0CF950"/>
+                     <pb n="67" facs="unknown:000158_0066_0FA2B766BB0CF950"/>
                      <head>[6]</head>
                      <l>God hath ordain'd the Rod<note place="margin">Prov. 3.11, 12.</note>
                      </l>
@@ -2486,7 +2486,7 @@
                      <l>And mourn for what's amiss.</l>
                   </lg>
                   <lg n="9">
-                     <pb n="68" facs="tcp:000158_0067_0FA2B7679E4AB708"/>
+                     <pb n="68" facs="unknown:000158_0067_0FA2B7679E4AB708"/>
                      <head>[9]</head>
                      <l>This is some hopeful fruit,</l>
                      <l>And do not this despise:</l>
@@ -2537,7 +2537,7 @@
                      <l>Humiliation deep.</l>
                   </lg>
                   <lg n="12">
-                     <pb n="69" facs="tcp:000158_0068_0FA2B7686E87DD80"/>
+                     <pb n="69" facs="unknown:000158_0068_0FA2B7686E87DD80"/>
                      <head>[12]</head>
                      <l>He that bewails his sins<note place="margin">Psal 51.2, 3<g ref="char:punc">▪</g> 4, 7, 10. Isa. 1<g ref="char:punc">▪</g> 16, 17, 18.</note>
                      </l>
@@ -2606,7 +2606,7 @@
                </sp>
             </div>
             <div n="5" type="song">
-               <pb n="70" facs="tcp:000158_0069_0FA2B38219ACDC58"/>
+               <pb n="70" facs="unknown:000158_0069_0FA2B38219ACDC58"/>
                <head>SONG V.</head>
                <head type="sub">A Dialogue between the <hi>Flesh</hi> and <hi>Spirit.</hi>
                </head>
@@ -2636,7 +2636,7 @@
                   </lg>
                </sp>
                <sp>
-                  <pb n="71" facs="tcp:000158_0070_0FA2B382EF94D110"/>
+                  <pb n="71" facs="unknown:000158_0070_0FA2B382EF94D110"/>
                   <speaker>Spirit.</speaker>
                   <lg n="3">
                      <head>[3]</head>
@@ -2699,7 +2699,7 @@
                      <l>In-our deliverance.</l>
                   </lg>
                   <lg n="6">
-                     <pb n="72" facs="tcp:000158_0071_0FA2B38564711230"/>
+                     <pb n="72" facs="unknown:000158_0071_0FA2B38564711230"/>
                      <head>[6]</head>
                      <l>He lets our troubles grow</l>
                      <l>
@@ -2739,7 +2739,7 @@
                </sp>
             </div>
             <div n="6" type="song">
-               <pb n="73" facs="tcp:000158_0072_0FA2B38A4CB3D4C0"/>
+               <pb n="73" facs="unknown:000158_0072_0FA2B38A4CB3D4C0"/>
                <head>SONG VI.</head>
                <head type="sub">Another Combate between the <hi>Flesh</hi> and <hi>Spirit.</hi>
                </head>
@@ -2771,7 +2771,7 @@
                      <l>On Christ alone rely.</l>
                   </lg>
                   <lg n="3">
-                     <pb n="74" facs="tcp:000158_0073_0FA2B38BC05C6840"/>
+                     <pb n="74" facs="unknown:000158_0073_0FA2B38BC05C6840"/>
                      <head>[3]</head>
                      <l>
                         <note place="margin">John 1.12<g ref="char:punc">▪</g> Acts 8.37 1 Cor. 1.30<g ref="char:punc">▪</g> Phil. 3.9<g ref="char:punc">▪</g> 10. Heb. 12.14.</note>Whole Christ with all my heart</l>
@@ -2800,7 +2800,7 @@
                </sp>
             </div>
             <div n="7" type="song">
-               <pb n="75" facs="tcp:000158_0074_0FA2B38E8683D0F0"/>
+               <pb n="75" facs="unknown:000158_0074_0FA2B38E8683D0F0"/>
                <head>SONG VII.</head>
                <l>Satanical injections foul</l>
                <l>Shall not undo the godly Soul</l>
@@ -2831,7 +2831,7 @@
                   <l>Which stab him to the Soul.</l>
                </lg>
                <lg n="3">
-                  <pb n="76" facs="tcp:000158_0075_0FA2B38F799D11B8"/>
+                  <pb n="76" facs="unknown:000158_0075_0FA2B38F799D11B8"/>
                   <head>[3]</head>
                   <l>Which way soe're he turns</l>
                   <l>His Understanding's ey,</l>
@@ -2868,7 +2868,7 @@
                   <l>Although he them detests.</l>
                </lg>
                <lg n="6">
-                  <pb n="77" facs="tcp:000158_0076_0FA2B38F90381980"/>
+                  <pb n="77" facs="unknown:000158_0076_0FA2B38F90381980"/>
                   <head>[6]</head>
                   <l>Experience daily shews</l>
                   <l>It may befall a Saint</l>
@@ -2909,7 +2909,7 @@
                      </gap>'st them with thy Soul.</l>
                </lg>
                <lg n="9">
-                  <pb n="78" facs="tcp:000158_0077_0FA2B390639AF1C8"/>
+                  <pb n="78" facs="unknown:000158_0077_0FA2B390639AF1C8"/>
                   <head>[9]</head>
                   <l>Be not discouraged;</l>
                   <l>God will not them impute</l>
@@ -2948,7 +2948,7 @@
                      <note place="margin">Psal. 91.3</note>By Satans deadly snare.</l>
                </lg>
                <lg n="12">
-                  <pb n="79" facs="tcp:000158_0078_0FA2B3911FED85E0"/>
+                  <pb n="79" facs="unknown:000158_0078_0FA2B3911FED85E0"/>
                   <head>[12]</head>
                   <l>Yea though Temptations strong</l>
                   <l>May thee sometimes surprise;</l>
@@ -2986,7 +2986,7 @@
                </lg>
             </div>
             <div n="8" type="song">
-               <pb n="80" facs="tcp:000158_0079_0FA2B391B7EE8EC8"/>
+               <pb n="80" facs="unknown:000158_0079_0FA2B391B7EE8EC8"/>
                <head>SONG VIII.</head>
                <lg n="1">
                   <head>[1]</head>
@@ -3012,7 +3012,7 @@
                   <l>If once he that effect.</l>
                </lg>
                <lg n="3">
-                  <pb n="81" facs="tcp:000158_0080_0FA2B39293C9C3F0"/>
+                  <pb n="81" facs="unknown:000158_0080_0FA2B39293C9C3F0"/>
                   <head>[3]</head>
                   <l>Thy help is in the Lord;<note place="margin">Hos. 13 9. Ezek. 36.37.</note>
                   </l>
@@ -3051,7 +3051,7 @@
                   <l>Labour to keep more near.</l>
                </lg>
                <lg n="6">
-                  <pb n="82" facs="tcp:000158_0081_0FA2B39341359DB8"/>
+                  <pb n="82" facs="unknown:000158_0081_0FA2B39341359DB8"/>
                   <head>[6]</head>
                   <l>
                      <note place="margin">Mat. 14.30.</note>Distracting horrid Fear</l>
@@ -3092,7 +3092,7 @@
                   <l>Flee thou, and run away.</l>
                </lg>
                <lg n="9">
-                  <pb n="83" facs="tcp:000158_0082_0FA2B397B147A960"/>
+                  <pb n="83" facs="unknown:000158_0082_0FA2B397B147A960"/>
                   <head>[9]</head>
                   <l>Be not thou like the Sheep,</l>
                   <l>That, being in a maze,</l>
@@ -3128,7 +3128,7 @@
                   <l>To follow and embrace.</l>
                </lg>
                <lg>
-                  <pb n="84" facs="tcp:000158_0083_0FA2B397B8533468"/>
+                  <pb n="84" facs="unknown:000158_0083_0FA2B397B8533468"/>
                   <l>Reader, I give thee here</l>
                   <l>Two Songs in other Meetre:</l>
                   <l>I hope they will not make a jarre,</l>
@@ -3169,7 +3169,7 @@
                   <l>That freely passeth by?</l>
                </lg>
                <lg n="3">
-                  <pb n="85" facs="tcp:000158_0084_0FA2B399790F8370"/>
+                  <pb n="85" facs="unknown:000158_0084_0FA2B399790F8370"/>
                   <head>[3]</head>
                   <l>I for the Lord wait, my soul waits;<note place="margin">Psal. 130.5.</note>
                   </l>
@@ -3215,7 +3215,7 @@
                   <l>Health of my Countenance.</l>
                </lg>
                <lg n="6">
-                  <pb n="86" facs="tcp:000158_0085_0FA2B39C6ED741B8"/>
+                  <pb n="86" facs="unknown:000158_0085_0FA2B39C6ED741B8"/>
                   <head>[6]</head>
                   <l>
                      <note place="margin">Isa. 126.3, 4.</note>Upon the Lord for evermore</l>
@@ -3257,7 +3257,7 @@
                      <l>Because I grieve no more.</l>
                   </lg>
                   <lg>
-                     <pb facs="tcp:000158_0086_0FA2B39D0B31D458"/>
+                     <pb facs="unknown:000158_0086_0FA2B39D0B31D458"/>
                      <l>Give me a broken heart,</l>
                      <l>That may both bleed and smart,</l>
                      <l>That I so often stray,</l>
@@ -3299,7 +3299,7 @@
                      </l>
                   </lg>
                   <lg>
-                     <pb n="88" facs="tcp:000158_0087_0FA2B39DC70D38B8"/>
+                     <pb n="88" facs="unknown:000158_0087_0FA2B39DC70D38B8"/>
                      <l>Thou didst mine aid implore,</l>
                      <l>And now it's at thy doore.</l>
                      <l>
@@ -3345,7 +3345,7 @@
                   </lg>
                   <lg>
                      <pb n="89"
-                         facs="tcp:000158_0088_0FA2B39E97FB6398"
+                         facs="unknown:000158_0088_0FA2B39E97FB6398"
                          rendition="simple:additions"/>
                      <l>Also my Father mild<note place="margin">John 20.17. John 14.16, 17.</note>
                      </l>
@@ -3390,7 +3390,7 @@
                      <l>Directest thou<g ref="char:punc">▪</g> dear Lord!</l>
                   </lg>
                   <lg>
-                     <pb facs="tcp:000158_0089_0FA2B39F53FCF950"/>
+                     <pb facs="unknown:000158_0089_0FA2B39F53FCF950"/>
                      <l>Will God be reconcil'd</l>
                      <l>To one that is so vil'd?</l>
                      <l>Wilt thou thy self bestow</l>
@@ -3428,12 +3428,12 @@
                      <l>Yet could I never do him</l>
                      <l>The service that I ow him.</l>
                   </lg>
-                  <pb facs="tcp:000158_0090_0FA2B39FF9725C20"/>
+                  <pb facs="unknown:000158_0090_0FA2B39FF9725C20"/>
                   <gap reason="duplicate" extent="1 page">
                      <desc>〈1 page duplicate〉</desc>
                   </gap>
                   <lg>
-                     <pb n="91" facs="tcp:000158_0091_0FA2B3A0B6EB1CD0"/>
+                     <pb n="91" facs="unknown:000158_0091_0FA2B3A0B6EB1CD0"/>
                      <l>Thy Love doth all surmount,<note place="margin">Ephes. 3.18, 19.</note>
                      </l>
                      <l>And is beyond account:</l>
@@ -3463,7 +3463,7 @@
             </div>
          </div>
          <div type="poems">
-            <pb n="92" facs="tcp:000158_0092_0FA2B3A3C8AE6980"/>
+            <pb n="92" facs="unknown:000158_0092_0FA2B3A3C8AE6980"/>
             <head>Sick mens Health.</head>
             <lg>
                <l>FOr Sick men to be well,</l>
@@ -3493,7 +3493,7 @@
                <l>Nor Medicines prescribe, which may</l>
                <l>Relieve thy Body's smart.</l>
                <l>
-                  <pb n="93" facs="tcp:000158_0093_0FA2B3A99C882360"/>But what may help thee bear</l>
+                  <pb n="93" facs="unknown:000158_0093_0FA2B3A99C882360"/>But what may help thee bear</l>
                <l>Thine outward Misery</l>
                <l>With Patience, as becomes a Saint,</l>
                <l>And to get good thereby.</l>
@@ -3525,7 +3525,7 @@
                   <l>Those whom he counts most dear.</l>
                </lg>
                <lg n="3">
-                  <pb n="94" facs="tcp:000158_0094_0FA2B3AAF99787C0"/>
+                  <pb n="94" facs="unknown:000158_0094_0FA2B3AAF99787C0"/>
                   <head>[3]</head>
                   <l>
                      <note place="margin">Job 2.7, 8.</note>Most Patient holy <hi>Job</hi>
@@ -3567,7 +3567,7 @@
                   <l>Have swallowed down his Spittle.</l>
                </lg>
                <lg n="6">
-                  <pb n="95" facs="tcp:000158_0095_0FA2B3AB66C27088"/>
+                  <pb n="95" facs="unknown:000158_0095_0FA2B3AB66C27088"/>
                   <head>[6]</head>
                   <l>Religious <hi>Hezekiah</hi>
                      <note place="margin">Isai. 28.1, 12.</note>
@@ -3607,7 +3607,7 @@
                   <l>And also full of sores:</l>
                </lg>
                <lg n="9">
-                  <pb n="96" facs="tcp:000158_0096_0FA2B3AC05A6DE70"/>
+                  <pb n="96" facs="unknown:000158_0096_0FA2B3AC05A6DE70"/>
                   <head>[9]</head>
                   <l>He may through Sickness die,</l>
                   <l>Or through distressing want;</l>
@@ -3636,7 +3636,7 @@
                   <l>Have been too much ensnar'd.</l>
                </lg>
                <lg n="2">
-                  <pb n="97" facs="tcp:000158_0097_0FA2B3ACDCBB7800"/>
+                  <pb n="97" facs="unknown:000158_0097_0FA2B3ACDCBB7800"/>
                   <head>[2]</head>
                   <l>I thought my own condition</l>
                   <l>Sometimes more sad then any:</l>
@@ -3673,7 +3673,7 @@
                   <l>His everlasting Wrath.</l>
                </lg>
                <lg n="5">
-                  <pb n="98" facs="tcp:000158_0098_0FA2B3AD7A8FE5C8"/>
+                  <pb n="98" facs="unknown:000158_0098_0FA2B3AD7A8FE5C8"/>
                   <head>[5]</head>
                   <l>And howsoe're the Lord</l>
                   <l>Be pleas'd with me to deal;</l>
@@ -3699,7 +3699,7 @@
                </lg>
             </div>
             <div n="3" type="meditation">
-               <pb n="99" facs="tcp:000158_0099_0FA2B3AE68D8B5F8"/>
+               <pb n="99" facs="unknown:000158_0099_0FA2B3AE68D8B5F8"/>
                <head>Meditation III.</head>
                <lg n="1">
                   <head>[1]</head>
@@ -3726,7 +3726,7 @@
                   <l>And Pain the way to Ease.</l>
                </lg>
                <lg n="3">
-                  <pb n="100" facs="tcp:000158_0100_0FA2B3AF06FAC9F8"/>
+                  <pb n="100" facs="unknown:000158_0100_0FA2B3AF06FAC9F8"/>
                   <head>[3]</head>
                   <l>Some men have Bodies sound,</l>
                   <l>But Souls most deadly sick:</l>
@@ -3763,7 +3763,7 @@
                   <l>And Pains, to do them good.</l>
                </lg>
                <lg n="6">
-                  <pb n="101" facs="tcp:000158_0101_0FA2B3AFB9AEBD28"/>
+                  <pb n="101" facs="unknown:000158_0101_0FA2B3AFB9AEBD28"/>
                   <head>[6]</head>
                   <l>Our Bodies Sicknesses</l>
                   <l>Are Physick for the Soul,</l>
@@ -3804,7 +3804,7 @@
                   <l>And heavenly things pursue.</l>
                </lg>
                <lg n="9">
-                  <pb n="102" facs="tcp:000158_0102_0FA2B3B08824E278"/>
+                  <pb n="102" facs="unknown:000158_0102_0FA2B3B08824E278"/>
                   <head>[9]</head>
                   <l>By these he quickeneth us</l>
                   <l>Our duty to attend,</l>
@@ -3842,7 +3842,7 @@
                </lg>
             </div>
             <div n="4" type="meditation">
-               <pb n="103" facs="tcp:000158_0103_0FA2B3B3CACC4C28"/>
+               <pb n="103" facs="unknown:000158_0103_0FA2B3B3CACC4C28"/>
                <head>Meditation IV.</head>
                <head type="sub">A Dialogue wherein the Speakers are <hi>Fear</hi> and <hi>Faith.</hi>
                </head>
@@ -3877,7 +3877,7 @@
                      <l>Will help thee undergo.</l>
                   </lg>
                   <lg n="3">
-                     <pb n="104" facs="tcp:000158_0104_0FA2B3B8580FFD08"/>
+                     <pb n="104" facs="unknown:000158_0104_0FA2B3B8580FFD08"/>
                      <head>[3]</head>
                      <l>Thy Strength is very small,</l>
                      <l>Thy Patience that is less;</l>
@@ -3921,7 +3921,7 @@
                      <l>That they may it abide.</l>
                   </lg>
                   <lg n="6">
-                     <pb n="105" facs="tcp:000158_0105_0FA2B3B9C3A49630"/>
+                     <pb n="105" facs="unknown:000158_0105_0FA2B3B9C3A49630"/>
                      <head>[6]</head>
                      <l>When left unto our selves,<note place="margin">1 Sam. 25.22. <hi>compared with</hi> 2 Sam. 16.10, 11.</note>
                      </l>
@@ -3962,7 +3962,7 @@
                   </lg>
                </sp>
                <sp>
-                  <pb n="106" facs="tcp:000158_0106_0FA2B3BA4DA13648"/>
+                  <pb n="106" facs="unknown:000158_0106_0FA2B3BA4DA13648"/>
                   <speaker>Faith.</speaker>
                   <lg n="9">
                      <head>[9]</head>
@@ -4007,7 +4007,7 @@
                         <note place="margin">Job 23.10.</note>More bright out of the Fire.</l>
                   </lg>
                   <lg n="12">
-                     <pb n="107" facs="tcp:000158_0107_0FA2B3BAFA65E7C8"/>
+                     <pb n="107" facs="unknown:000158_0107_0FA2B3BAFA65E7C8"/>
                      <head>[12]</head>
                      <l>Soul, wherefore should'st thou then</l>
                      <l>Dread Sicknesses, or Pain?</l>
@@ -4030,7 +4030,7 @@
             </div>
          </div>
          <div type="poems">
-            <pb n="108" facs="tcp:000158_0108_0FA2B3BBE75D7808"/>
+            <pb n="108" facs="unknown:000158_0108_0FA2B3BBE75D7808"/>
             <head>Strength in Weakness.</head>
             <lg>
                <l>THat weak ones may grow strong</l>
@@ -4068,7 +4068,7 @@
                   <l>Could soon degenerate</l>
                </lg>
                <lg n="2">
-                  <pb n="109" facs="tcp:000158_0109_0FA2B3BC7ADC4490"/>
+                  <pb n="109" facs="unknown:000158_0109_0FA2B3BC7ADC4490"/>
                   <head>[2]</head>
                   <l>He that was strong at first</l>
                   <l>Immediately grew weak:</l>
@@ -4111,7 +4111,7 @@
                   <l>To be at our command.</l>
                </lg>
                <lg n="5">
-                  <pb n="110" facs="tcp:000158_0110_0FA2B3BD4D1BFCD0"/>
+                  <pb n="110" facs="unknown:000158_0110_0FA2B3BD4D1BFCD0"/>
                   <head>[5]</head>
                   <l>
                      <note place="margin">Phil. 4.13.</note>The strongest Saints have need</l>
@@ -4153,7 +4153,7 @@
                      </gap>ure.</l>
                </lg>
                <lg n="8">
-                  <pb n="111" facs="tcp:000158_0111_0FA2B3BE26187100"/>
+                  <pb n="111" facs="unknown:000158_0111_0FA2B3BE26187100"/>
                   <head>[8]</head>
                   <l>
                      <hi>Peter</hi> was confident<note place="margin">Luke 22.33 &amp; 56, 57, 58, 60.</note>
@@ -4195,7 +4195,7 @@
                   <l>And flee to Christ their Head.</l>
                </lg>
                <lg n="11">
-                  <pb n="112" facs="tcp:000158_0112_0FA2B3BED63C0058"/>
+                  <pb n="112" facs="unknown:000158_0112_0FA2B3BED63C0058"/>
                   <head>[11]</head>
                   <l>
                      <note place="margin">Isa. 40.29, 30.</note>For Christ hath strength enough:</l>
@@ -4232,7 +4232,7 @@
                </lg>
             </div>
             <div n="2" type="song">
-               <pb n="113" facs="tcp:000158_0113_0FA2B3BF8504E1B0"/>
+               <pb n="113" facs="unknown:000158_0113_0FA2B3BF8504E1B0"/>
                <head>SONG II.</head>
                <lg n="1">
                   <head>[1]</head>
@@ -4258,7 +4258,7 @@
                   <l>All strength and vigour fails me.</l>
                </lg>
                <lg n="3">
-                  <pb n="114" facs="tcp:000158_0114_0FA2B3C05A2D33D0"/>
+                  <pb n="114" facs="unknown:000158_0114_0FA2B3C05A2D33D0"/>
                   <head>[3]</head>
                   <l>I go to God and tell him,</l>
                   <l>Thou Lord hast strength, I want it</l>
@@ -4292,7 +4292,7 @@
                   <l>Doth much exasperate.</l>
                </lg>
                <lg n="6">
-                  <pb n="115" facs="tcp:000158_0115_0FA2B3C0F73CF9D8"/>
+                  <pb n="115" facs="unknown:000158_0115_0FA2B3C0F73CF9D8"/>
                   <head>[6]</head>
                   <l>By every little doing</l>
                   <l>I suffer very much:</l>
@@ -4320,7 +4320,7 @@
                </lg>
             </div>
             <div n="3" type="song">
-               <pb n="116" facs="tcp:000158_0116_0FA2B3C1DB89CE00"/>
+               <pb n="116" facs="unknown:000158_0116_0FA2B3C1DB89CE00"/>
                <head>SONG III.</head>
                <head type="sub">A Dialogue wherein the Speakers are <hi>Troubled Conscience</hi> and <hi>Rectified Judgement.</hi>
                </head>
@@ -4353,7 +4353,7 @@
                      <l>Who owns and crowneth this.</l>
                   </lg>
                   <lg n="3">
-                     <pb n="117" facs="tcp:000158_0117_0FA2B3C5021A44E0"/>
+                     <pb n="117" facs="unknown:000158_0117_0FA2B3C5021A44E0"/>
                      <head>[3]</head>
                      <l>Thou still art serving Christ<g ref="char:punc">▪</g>
                         <note place="margin">1 Pet. 4.12, 13, 14.</note>
@@ -4393,7 +4393,7 @@
                      <l>Where he denieth power.</l>
                   </lg>
                   <lg n="6">
-                     <pb n="118" facs="tcp:000158_0118_0FA2B3C576CB1980"/>
+                     <pb n="118" facs="unknown:000158_0118_0FA2B3C576CB1980"/>
                      <head>[6]</head>
                      <l>Although the work be small</l>
                      <l>Thou canst for him effect:</l>
@@ -4437,7 +4437,7 @@
                      <desc>••••</desc>
                   </gap>
                   <lg n="5">
-                     <pb n="123" facs="tcp:000158_0119_0FA2B3C96569B2A0"/>
+                     <pb n="123" facs="unknown:000158_0119_0FA2B3C96569B2A0"/>
                      <head>[5]</head>
                      <l>He was a Rich Poor man,</l>
                      <l>Whose Poverty prepar'd him</l>
@@ -4472,7 +4472,7 @@
                      <l>Nor any saving grace.</l>
                   </lg>
                   <lg n="8">
-                     <pb n="124" facs="tcp:000158_0120_0FA2B3CAD033EF18"/>
+                     <pb n="124" facs="unknown:000158_0120_0FA2B3CAD033EF18"/>
                      <head>[8]</head>
                      <l>Let not the poorest Saint</l>
                      <l>Despond; for thou art rich:</l>
@@ -4516,7 +4516,7 @@
                </sp>
             </div>
             <div n="2" type="meditation">
-               <pb n="125" facs="tcp:000158_0121_0FA2B3CB8C1F4968"/>
+               <pb n="125" facs="unknown:000158_0121_0FA2B3CB8C1F4968"/>
                <head>Meditation II.</head>
                <lg n="1">
                   <head>[1]</head>
@@ -4547,7 +4547,7 @@
                   <l>He found him weight to lack.</l>
                </lg>
                <lg n="3">
-                  <pb n="126" facs="tcp:000158_0122_0FA2B3CC455514F0"/>
+                  <pb n="126" facs="unknown:000158_0122_0FA2B3CC455514F0"/>
                   <head>[3]</head>
                   <l>I'le not envie the Rich,</l>
                   <l>Nor will I sleight the Poor:</l>
@@ -4589,7 +4589,7 @@
                   <l>Whom men account most base.</l>
                </lg>
                <lg n="6">
-                  <pb n="127" facs="tcp:000158_0123_0FA2B3CCF904CD40"/>
+                  <pb n="127" facs="unknown:000158_0123_0FA2B3CCF904CD40"/>
                   <head>[6]</head>
                   <l>Weak, foolish, mean, obscure,<note place="margin">1 Cor. 1.27, 28.</note>
                   </l>
@@ -4621,7 +4621,7 @@
                   </lg>
                </sp>
                <sp>
-                  <pb n="128" facs="tcp:000158_0124_0FA2B3CDCDA90648"/>
+                  <pb n="128" facs="unknown:000158_0124_0FA2B3CDCDA90648"/>
                   <speaker>Faith.</speaker>
                   <lg n="2">
                      <head>[2]</head>
@@ -4663,7 +4663,7 @@
                      <l>They'll then be poor indeed.</l>
                   </lg>
                   <lg n="5">
-                     <pb n="129" facs="tcp:000158_0125_0FA2B3CE81976110"/>
+                     <pb n="129" facs="unknown:000158_0125_0FA2B3CE81976110"/>
                      <head>[5]</head>
                      <l>But he that hath the Lord<note place="margin">Psal. 23.<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
@@ -4703,7 +4703,7 @@
                      <l>Will help us to the End.</l>
                   </lg>
                   <lg n="8">
-                     <pb n="130" facs="tcp:000158_0126_0FA2B3CF4946B5C8"/>
+                     <pb n="130" facs="unknown:000158_0126_0FA2B3CF4946B5C8"/>
                      <head>[8]</head>
                      <l>Of present things, my Soul,</l>
                      <l>What present need requires</l>
@@ -4761,7 +4761,7 @@
                </sp>
             </div>
             <div n="4" type="meditation">
-               <pb n="131" facs="tcp:000158_0127_0FA2B3D1F604D3B0"/>
+               <pb n="131" facs="unknown:000158_0127_0FA2B3D1F604D3B0"/>
                <head>Meditation IV.</head>
                <lg n="1">
                   <head>[1]</head>
@@ -4789,7 +4789,7 @@
                   <l>And not their wants supply?</l>
                </lg>
                <lg n="3">
-                  <pb n="132" facs="tcp:000158_0128_0FA2B3D2AF0239B8"/>
+                  <pb n="132" facs="unknown:000158_0128_0FA2B3D2AF0239B8"/>
                   <head>[3]</head>
                   <l>
                      <note place="margin">Rom. 8.32.</note>He that did not withhold</l>
@@ -4830,7 +4830,7 @@
                   <l>Nor none so rich as He.</l>
                </lg>
                <lg n="6">
-                  <pb n="133" facs="tcp:000158_0129_0FA2B3D30D3E5D98"/>
+                  <pb n="133" facs="unknown:000158_0129_0FA2B3D30D3E5D98"/>
                   <head>[6]</head>
                   <l>If Kinde, he wants not will;</l>
                   <l>If Rich, he wants not power:</l>
@@ -4870,7 +4870,7 @@
                   <l>Most seas'nably provide.</l>
                </lg>
                <lg n="9">
-                  <pb n="134" facs="tcp:000158_0130_0FA2B3D3CF03EEE0"/>
+                  <pb n="134" facs="unknown:000158_0130_0FA2B3D3CF03EEE0"/>
                   <head>[9]</head>
                   <l>Thou wantest thankfulness:</l>
                   <l>This calleth for complaint</l>
@@ -4902,7 +4902,7 @@
                   <l>Our Spiritual wants and needs.</l>
                </lg>
                <lg n="2">
-                  <pb n="135" facs="tcp:000158_0131_0FA2B3D486578518"/>
+                  <pb n="135" facs="unknown:000158_0131_0FA2B3D486578518"/>
                   <head>[2]</head>
                   <l>That's Bread of Life indeed,<note place="margin">John 6 27, 51 55.</note>
                   </l>
@@ -4945,7 +4945,7 @@
                   <l>Honour, or Carnal Pleasure.</l>
                </lg>
                <lg n="5">
-                  <pb n="136" facs="tcp:000158_0132_0FA2B3D536D47BD8"/>
+                  <pb n="136" facs="unknown:000158_0132_0FA2B3D536D47BD8"/>
                   <head>[5]</head>
                   <l>For will not God deal better</l>
                   <l>With Servants, then with Foes?</l>
@@ -4985,7 +4985,7 @@
                   <l>For such as do him fear.</l>
                </lg>
                <lg n="8">
-                  <pb n="137" facs="tcp:000158_0133_0FA2B3D8DB66E868"/>
+                  <pb n="137" facs="unknown:000158_0133_0FA2B3D8DB66E868"/>
                   <head>[8]</head>
                   <l>Earth's Treasures are but dung,<note place="margin">Phil 38. Amos 2.7.</note>
                   </l>
@@ -5025,7 +5025,7 @@
             </div>
          </div>
          <div type="poems">
-            <pb n="138" facs="tcp:000158_0134_0FA2B3DA28011AA8"/>
+            <pb n="138" facs="unknown:000158_0134_0FA2B3DA28011AA8"/>
             <head>In Confinement Liberty.</head>
             <l>WHat may this Riddle mean?</l>
             <l>Confined, and yet Free!</l>
@@ -5050,7 +5050,7 @@
                   <l>Like Fetters and strong Bands.</l>
                </lg>
                <lg n="2">
-                  <pb n="139" facs="tcp:000158_0135_0FA2B3DA7B300DC8"/>
+                  <pb n="139" facs="unknown:000158_0135_0FA2B3DA7B300DC8"/>
                   <head>[2]</head>
                   <l>Come let us break their Bands<note place="margin">Psal. 2 3.</note>
                   </l>
@@ -5088,7 +5088,7 @@
                   <l>And be at such a pass.</l>
                </lg>
                <lg n="5">
-                  <pb n="140" facs="tcp:000158_0136_0FA2B3DB745E0D38"/>
+                  <pb n="140" facs="unknown:000158_0136_0FA2B3DB745E0D38"/>
                   <head>[5]</head>
                   <l>
                      <note place="margin">Job 36.8, 9, 10.</note>God bindeth some in Chains,</l>
@@ -5127,7 +5127,7 @@
                   <l>For blessed Liberty.</l>
                </lg>
                <lg n="8">
-                  <pb n="141" facs="tcp:000158_0137_0FA2B3DC107D2160"/>
+                  <pb n="141" facs="unknown:000158_0137_0FA2B3DC107D2160"/>
                   <head>[8]</head>
                   <l>While <hi>Jonah</hi>'s stubborn will<note place="margin">Jonah 1.</note>
                   </l>
@@ -5175,7 +5175,7 @@
                </lg>
             </div>
             <div n="2" type="song">
-               <pb n="142" facs="tcp:000158_0138_0FA2B3DDED5DC118"/>
+               <pb n="142" facs="unknown:000158_0138_0FA2B3DDED5DC118"/>
                <head>SONG II.</head>
                <lg n="1">
                   <head>[1]</head>
@@ -5200,7 +5200,7 @@
                   <l>Even in Imprisonment.</l>
                </lg>
                <lg n="3">
-                  <pb n="143" facs="tcp:000158_0139_0FA2B3DE6C0F4818"/>
+                  <pb n="143" facs="unknown:000158_0139_0FA2B3DE6C0F4818"/>
                   <head>[3]</head>
                   <l>Man's unsubdued Will<note place="margin">Rom. 8.7, 8. Psal. 119.45, 47. 2 Cor. <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -5241,7 +5241,7 @@
                   <l>And Satan's Tyranny.</l>
                </lg>
                <lg n="6">
-                  <pb n="144" facs="tcp:000158_0140_0FA2B3DF1CAC0EB0"/>
+                  <pb n="144" facs="unknown:000158_0140_0FA2B3DF1CAC0EB0"/>
                   <head>[6]</head>
                   <l>Hee'll wean us from the world,</l>
                   <l>And all things here below;</l>
@@ -5281,7 +5281,7 @@
                </lg>
             </div>
             <div n="3" type="song">
-               <pb n="145" facs="tcp:000158_0141_0FA2B3DFB886EE98"/>
+               <pb n="145" facs="unknown:000158_0141_0FA2B3DFB886EE98"/>
                <head>SONG III.</head>
                <lg n="1">
                   <head>[1]</head>
@@ -5307,7 +5307,7 @@
                   <l>Salvation by him, taught.</l>
                </lg>
                <lg n="3">
-                  <pb n="146" facs="tcp:000158_0142_0FA2B3E0815A0608"/>
+                  <pb n="146" facs="unknown:000158_0142_0FA2B3E0815A0608"/>
                   <head>[3]</head>
                   <l>
                      <note place="margin">Exod. 3.1.2, 4, <hi>to</hi> 10.</note>
@@ -5349,7 +5349,7 @@
                   <l>And cheer his Suffering Saint.</l>
                </lg>
                <lg n="6">
-                  <pb n="147" facs="tcp:000158_0143_0FA2B3E16D15C368"/>
+                  <pb n="147" facs="unknown:000158_0143_0FA2B3E16D15C368"/>
                   <head>[6]</head>
                   <l>The time would fail to tell</l>
                   <l>Examples of this kinde:</l>
@@ -5379,7 +5379,7 @@
             </div>
          </div>
          <div type="poems">
-            <pb n="148" facs="tcp:000158_0144_0FA2B3E1F74BF1E0"/>
+            <pb n="148" facs="unknown:000158_0144_0FA2B3E1F74BF1E0"/>
             <head>In Solitude Good Company.</head>
             <lg>
                <l>TO be alone sometimes</l>
@@ -5411,7 +5411,7 @@
                <l>A sore Affliction.</l>
             </lg>
             <lg n="2">
-               <pb n="149" facs="tcp:000158_0145_0FA2B458F2CEC660"/>
+               <pb n="149" facs="unknown:000158_0145_0FA2B458F2CEC660"/>
                <head>[2]</head>
                <l>But bitter though it be,</l>
                <l>God's Presence can allay</l>
@@ -5460,7 +5460,7 @@
                <l>Good <hi>Moses</hi> did amaze.</l>
             </lg>
             <lg n="5">
-               <pb n="150" facs="tcp:000158_0146_0FA2B45A70519548"/>
+               <pb n="150" facs="unknown:000158_0146_0FA2B45A70519548"/>
                <head>[5]</head>
                <l>Affliction, though a fire,</l>
                <l>God's Saints cannot devour;</l>
@@ -5498,7 +5498,7 @@
                <l>Them holds; they need not doubt.</l>
             </lg>
             <lg n="8">
-               <pb n="151" facs="tcp:000158_0147_0FA2B45AC383CF90"/>
+               <pb n="151" facs="unknown:000158_0147_0FA2B45AC383CF90"/>
                <head>[8]</head>
                <l>They dwell in Solitude,</l>
                <l>Are in a lonely case,</l>
@@ -5534,7 +5534,7 @@
                <l>In solitary state.</l>
             </lg>
             <lg n="11">
-               <pb n="152" facs="tcp:000158_0148_0FA2B45B812AFB10"/>
+               <pb n="152" facs="unknown:000158_0148_0FA2B45B812AFB10"/>
                <head>[11]</head>
                <l>
                   <note place="margin">Psal. 41.3<g ref="char:punc">▪</g> Deut. 33.27.</note>When such a man is sick,</l>
@@ -5574,7 +5574,7 @@
                <l>His hearts desires rehearse.</l>
             </lg>
             <lg n="14">
-               <pb n="153" facs="tcp:000158_0149_0FA2B45C56B04210"/>
+               <pb n="153" facs="unknown:000158_0149_0FA2B45C56B04210"/>
                <head>[14]</head>
                <l>Who truly pities him<note place="margin">Psal. 103.13. Psal. 34.6, 7, 10.</note>
                </l>
@@ -5612,7 +5612,7 @@
                <l>And all my sins release.</l>
             </lg>
             <div n="2" type="song">
-               <pb n="154" facs="tcp:000158_0150_0FA2B45D12829238"/>
+               <pb n="154" facs="unknown:000158_0150_0FA2B45D12829238"/>
                <head>SONG II.</head>
                <lg n="1">
                   <head>[1]</head>
@@ -5637,7 +5637,7 @@
                   <l>Great Courtesie was shown?</l>
                </lg>
                <lg n="3">
-                  <pb n="155" facs="tcp:000158_0151_0FA2B45DB6DD1EC8"/>
+                  <pb n="155" facs="unknown:000158_0151_0FA2B45DB6DD1EC8"/>
                   <head>[3]</head>
                   <l>Thy Wife, or Childe, or Friend,</l>
                   <l>They were but Blessings lent thee:</l>
@@ -5677,7 +5677,7 @@
                   <l>Thou hadst in all thy life.</l>
                </lg>
                <lg n="6">
-                  <pb n="156" facs="tcp:000158_0152_0FA2B45E76F390E0"/>
+                  <pb n="156" facs="unknown:000158_0152_0FA2B45E76F390E0"/>
                   <head>[6]</head>
                   <l>Let but Christ Jesus come,</l>
                   <l>And dwell within thy Heart:</l>
@@ -5721,7 +5721,7 @@
                   <l>Shall be thy Company.</l>
                </lg>
                <lg>
-                  <pb n="157" facs="tcp:000158_0153_0FA2B45FD056E450"/>
+                  <pb n="157" facs="unknown:000158_0153_0FA2B45FD056E450"/>
                   <l>This following Song was penn'd</l>
                   <l>Eight years agone at least:</l>
                   <l>I hope it may be useful here</l>
@@ -5777,7 +5777,7 @@
                   </lg>
                </sp>
                <sp>
-                  <pb n="158" facs="tcp:000158_0154_0FA2B460469CA468"/>
+                  <pb n="158" facs="unknown:000158_0154_0FA2B460469CA468"/>
                   <speaker>Spirit.</speaker>
                   <lg n="3">
                      <head>[3]</head>
@@ -5830,7 +5830,7 @@
                   </lg>
                </sp>
                <sp>
-                  <pb n="159" facs="tcp:000158_0155_0FA2B528F9AAE0E0"/>
+                  <pb n="159" facs="unknown:000158_0155_0FA2B528F9AAE0E0"/>
                   <speaker>Spirit.</speaker>
                   <lg n="6">
                      <head>[6]</head>
@@ -5879,7 +5879,7 @@
                      <l>Eternal Pain and Loss.</l>
                   </lg>
                   <lg n="9">
-                     <pb n="160" facs="tcp:000158_0156_0FA2B529CF59B7D0"/>
+                     <pb n="160" facs="unknown:000158_0156_0FA2B529CF59B7D0"/>
                      <head>[9]</head>
                      <l>Be silent then frail Flesh:</l>
                      <l>Impatience hold thy tongue,</l>
@@ -5925,7 +5925,7 @@
             </div>
          </div>
          <div type="poems">
-            <pb n="161" facs="tcp:000158_0157_0FA2B52A80C03320"/>
+            <pb n="161" facs="unknown:000158_0157_0FA2B52A80C03320"/>
             <head>Joy in Sorrow.</head>
             <lg>
                <l>CAn Joy and Sorrow meet</l>
@@ -5961,7 +5961,7 @@
                <l>The more he mourns for sin.</l>
             </lg>
             <lg>
-               <pb n="162" facs="tcp:000158_0158_0FA2B52B46E09308"/>
+               <pb n="162" facs="unknown:000158_0158_0FA2B52B46E09308"/>
                <l>This Grief the Channel is</l>
                <l>In which Joy loves to run:</l>
                <l>And Joy the Channel deeper plows</l>
@@ -5997,7 +5997,7 @@
                   <l>To yield thy Soul relief.</l>
                </lg>
                <lg n="3">
-                  <pb n="163" facs="tcp:000158_0159_0FA2B52C6602AAC8"/>
+                  <pb n="163" facs="unknown:000158_0159_0FA2B52C6602AAC8"/>
                   <head>[3]</head>
                   <l>Thou must these Cordials know,</l>
                   <l>And how to take and use them:</l>
@@ -6033,7 +6033,7 @@
                   <l>Make thee lay sin to heart.</l>
                </lg>
                <lg n="6">
-                  <pb n="164" facs="tcp:000158_0160_0FA2B52CE42C1220"/>
+                  <pb n="164" facs="unknown:000158_0160_0FA2B52CE42C1220"/>
                   <head>[6]</head>
                   <l>If this Affliction be</l>
                   <l>
@@ -6071,7 +6071,7 @@
                   <l>When thus he sees thee mourn.</l>
                </lg>
                <lg n="9">
-                  <pb n="165" facs="tcp:000158_0161_0FA2B52E197092C0"/>
+                  <pb n="165" facs="unknown:000158_0161_0FA2B52E197092C0"/>
                   <head>[9]</head>
                   <l>As oftentimes we see</l>
                   <l>In some acute Disease,</l>
@@ -6111,7 +6111,7 @@
                </lg>
             </div>
             <div n="2" type="song">
-               <pb n="66" facs="tcp:000158_0162_0FA2B52E35BCF928"/>
+               <pb n="66" facs="unknown:000158_0162_0FA2B52E35BCF928"/>
                <head>SONG II.</head>
                <lg n="1">
                   <head>[1]</head>
@@ -6139,7 +6139,7 @@
                </lg>
             </div>
             <div n="3" type="song">
-               <pb n="169" facs="tcp:000158_0163_0FA2B5317A3C7668"/>
+               <pb n="169" facs="unknown:000158_0163_0FA2B5317A3C7668"/>
                <head>SONG III.</head>
                <lg n="1">
                   <head>[1]</head>
@@ -6167,7 +6167,7 @@
                   <l>Will turn into a smile.</l>
                </lg>
                <lg n="3">
-                  <pb n="170" facs="tcp:000158_0164_0FA2B40ECD626058"/>
+                  <pb n="170" facs="unknown:000158_0164_0FA2B40ECD626058"/>
                   <head>[3]</head>
                   <l>Thy Tears are like good Seed</l>
                   <l>Sown in a fruitful Field:</l>
@@ -6204,7 +6204,7 @@
                   <l>And everlasting gains.</l>
                </lg>
                <lg n="6">
-                  <pb n="171" facs="tcp:000158_0165_0FA2B3E502BC1E78"/>
+                  <pb n="171" facs="unknown:000158_0165_0FA2B3E502BC1E78"/>
                   <head>[6]</head>
                   <l>Eternall Happiness</l>
                   <l>Will make amends for all.</l>
@@ -6243,7 +6243,7 @@
                </lg>
             </div>
             <div n="4" type="song">
-               <pb n="172" facs="tcp:000158_0166_0FA2B3E624A36118"/>
+               <pb n="172" facs="unknown:000158_0166_0FA2B3E624A36118"/>
                <head>SONG IV.</head>
                <l>Solamen miseris focios habuisse doloris</l>
                <l>Christum cum sanctis—</l>
@@ -6272,7 +6272,7 @@
                   <l>And in their woes take part,</l>
                </lg>
                <lg n="3">
-                  <pb n="173" facs="tcp:000158_0167_0FA2B3E690DAD5A8"/>
+                  <pb n="173" facs="unknown:000158_0167_0FA2B3E690DAD5A8"/>
                   <head>[3]</head>
                   <l>They cannot chuse but mourn</l>
                   <l>With such as mourners be:</l>
@@ -6310,7 +6310,7 @@
                   <l>The Spirit of Love doth breath.</l>
                </lg>
                <lg n="6">
-                  <pb n="174" facs="tcp:000158_0168_0FA2B3E7469885B8"/>
+                  <pb n="174" facs="unknown:000158_0168_0FA2B3E7469885B8"/>
                   <head>[6]</head>
                   <l>That Spirit of Love and Peace,</l>
                   <l>Who dwells in all the Saints,</l>
@@ -6348,7 +6348,7 @@
                      <note place="margin">Psal. 103.13.</note>They pour out their complaints.</l>
                </lg>
                <lg n="9">
-                  <pb n="175" facs="tcp:000158_0169_0FA2B3E89AD37268"/>
+                  <pb n="175" facs="unknown:000158_0169_0FA2B3E89AD37268"/>
                   <head>[9]</head>
                   <l>Friends sometimes stand aloof,<note place="margin">Psal. 38.11.</note>
                   </l>
@@ -6397,7 +6397,7 @@
                   <l>And writeth down our fears.</l>
                </lg>
                <lg n="12">
-                  <pb n="176" facs="tcp:000158_0170_0FA2B3E8C8094BF8"/>
+                  <pb n="176" facs="unknown:000158_0170_0FA2B3E8C8094BF8"/>
                   <head>[12]</head>
                   <l>He knows thy Sicknesses;</l>
                   <l>He feeleth all thy smart:</l>
@@ -6425,7 +6425,7 @@
                </lg>
             </div>
             <div n="5" type="song">
-               <pb n="177" facs="tcp:000158_0171_0FA2B3E984B05910"/>
+               <pb n="177" facs="unknown:000158_0171_0FA2B3E984B05910"/>
                <head>SONG V.</head>
                <lg n="1">
                   <head>[1]</head>
@@ -6454,7 +6454,7 @@
                   <l>To mitigate their smart?</l>
                </lg>
                <lg n="3">
-                  <pb n="178" facs="tcp:000158_0172_0FA2B3EA4279D9A0"/>
+                  <pb n="178" facs="unknown:000158_0172_0FA2B3EA4279D9A0"/>
                   <head>[3]</head>
                   <l>Poor Souls! I pitty you,</l>
                   <l>And do your case bemoan:</l>
@@ -6494,7 +6494,7 @@
                   <l>Grieve and ashame him thee more.</l>
                </lg>
                <lg n="6">
-                  <pb n="179" facs="tcp:000158_0173_0FA2B3EB2E528D10"/>
+                  <pb n="179" facs="unknown:000158_0173_0FA2B3EB2E528D10"/>
                   <head>[6]</head>
                   <l>Could'st thou but lay to heart</l>
                   <l>Thy sinful woful state:</l>
@@ -6533,7 +6533,7 @@
             </div>
          </div>
          <div type="poems">
-            <pb n="180" facs="tcp:000158_0174_0FA2B3EBB6E5A278"/>
+            <pb n="180" facs="unknown:000158_0174_0FA2B3EBB6E5A278"/>
             <head>Life in Deaths.</head>
             <lg>
                <l>WHat <hi>Mystery</hi> is this</l>
@@ -6562,7 +6562,7 @@
                <l>Out of the Sorrows of this world</l>
                <l>Wherewith we are opprest.</l>
                <l>
-                  <pb n="181" facs="tcp:000158_0175_0FA2B3EED5E40CB8"/>But I'le not here detain thee:</l>
+                  <pb n="181" facs="unknown:000158_0175_0FA2B3EED5E40CB8"/>But I'le not here detain thee:</l>
                <l>Reade on, and thou shalt see</l>
                <l>Both many Deaths in one short Life,</l>
                <l>And Life in Deaths to be.</l>
@@ -6593,7 +6593,7 @@
                   <l>Our Souls unto the Devil.</l>
                </lg>
                <lg n="3">
-                  <pb n="182" facs="tcp:000158_0176_0FA2B3F01DCEFF28"/>
+                  <pb n="182" facs="unknown:000158_0176_0FA2B3F01DCEFF28"/>
                   <head>[3]</head>
                   <l>We pestered are with sin</l>
                   <l>So long as here we live:</l>
@@ -6630,7 +6630,7 @@
                   <l>Make sorrowful complaints.</l>
                </lg>
                <lg n="6">
-                  <pb n="183" facs="tcp:000158_0177_0FA2B3F241330D78"/>
+                  <pb n="183" facs="unknown:000158_0177_0FA2B3F241330D78"/>
                   <head>[6]</head>
                   <l>Oh what a glorious thing</l>
                   <l>In all true Christians eyes</l>
@@ -6668,7 +6668,7 @@
                </lg>
             </div>
             <div n="2" type="song">
-               <pb n="184" facs="tcp:000158_0178_0FA2B3F277B7EA80"/>
+               <pb n="184" facs="unknown:000158_0178_0FA2B3F277B7EA80"/>
                <head>SONG II.</head>
                <lg n="1">
                   <head>[1]</head>
@@ -6695,7 +6695,7 @@
                   <l>Against his Will rebell.</l>
                </lg>
                <lg n="3">
-                  <pb n="185" facs="tcp:000158_0179_0FA2B3F353DECAC0"/>
+                  <pb n="185" facs="unknown:000158_0179_0FA2B3F353DECAC0"/>
                   <head>[3]</head>
                   <l>Our Senses shall no longer</l>
                   <l>Be inlets unto Sin:</l>
@@ -6731,7 +6731,7 @@
                   <l>Distress, if not destroy us.</l>
                </lg>
                <lg n="6">
-                  <pb n="186" facs="tcp:000158_0180_0FA2B3F45CAA5548"/>
+                  <pb n="186" facs="unknown:000158_0180_0FA2B3F45CAA5548"/>
                   <head>[6]</head>
                   <l>Death is the Red Sea, which</l>
                   <l>When once we are got through,</l>
@@ -6775,7 +6775,7 @@
                </lg>
             </div>
             <div n="3" type="song">
-               <pb n="187" facs="tcp:000158_0181_0FA2B3F4CD5957D8"/>
+               <pb n="187" facs="unknown:000158_0181_0FA2B3F4CD5957D8"/>
                <head>SONG III.</head>
                <lg n="1">
                   <head>[1]</head>
@@ -6802,7 +6802,7 @@
                   <l>Through one or other's side.</l>
                </lg>
                <lg n="3">
-                  <pb n="188" facs="tcp:000158_0182_0FA2B3F597E23A30"/>
+                  <pb n="188" facs="unknown:000158_0182_0FA2B3F597E23A30"/>
                   <head>[3]</head>
                   <l>Pains, Losses, Sicknesses,</l>
                   <l>Temptations, Sorrows, Sin;</l>
@@ -6839,7 +6839,7 @@
                   <l>Of Immortality.</l>
                </lg>
                <lg n="6">
-                  <pb n="189" facs="tcp:000158_0183_0FA2B3F6A427A168"/>
+                  <pb n="189" facs="unknown:000158_0183_0FA2B3F6A427A168"/>
                   <head>[6]</head>
                   <l>This then our Comfort is,</l>
                   <l>This is our Life in Death;</l>
@@ -6879,7 +6879,7 @@
             </div>
          </div>
          <div type="poems">
-            <pb n="190" facs="tcp:000158_0184_0FA2B3F70E2523B8"/>
+            <pb n="190" facs="unknown:000158_0184_0FA2B3F70E2523B8"/>
             <head>Heavenly Crowns FOR Thorny Wreaths.</head>
             <div n="1" type="song">
                <head>SONG I.</head>
@@ -6912,7 +6912,7 @@
                   <l>And of his Joyes partake.</l>
                </lg>
                <lg n="3">
-                  <pb n="191" facs="tcp:000158_0185_0FA2B3F80B3F0B28"/>
+                  <pb n="191" facs="unknown:000158_0185_0FA2B3F80B3F0B28"/>
                   <head>[3]</head>
                   <l>Those that for doing well,</l>
                   <l>For keeping Christ's Commands,</l>
@@ -6950,7 +6950,7 @@
                   </l>
                </lg>
                <lg n="6">
-                  <pb n="192" facs="tcp:000158_0186_0FA2B3F8CAB9A2D0"/>
+                  <pb n="192" facs="unknown:000158_0186_0FA2B3F8CAB9A2D0"/>
                   <head>[6]</head>
                   <l>
                      <note place="margin">Mark 10.29, 30.</note>Who Father, Mother, Wife</l>
@@ -6992,7 +6992,7 @@
                </lg>
             </div>
             <div n="2" type="song">
-               <pb n="193" facs="tcp:000158_0187_0FA2B3FE1AA3EA70"/>
+               <pb n="193" facs="unknown:000158_0187_0FA2B3FE1AA3EA70"/>
                <head>SONG II.</head>
                <lg n="1">
                   <head>[1]</head>
@@ -7019,7 +7019,7 @@
                   <l>And Patient Sufferings crown.</l>
                </lg>
                <lg n="3">
-                  <pb n="194" facs="tcp:000158_0188_0FA2B3FF7A32E918"/>
+                  <pb n="194" facs="unknown:000158_0188_0FA2B3FF7A32E918"/>
                   <head>[3]</head>
                   <l>Not onely such as have</l>
                   <l>For Jesus shed their Blood;</l>
@@ -7056,7 +7056,7 @@
                   <l>Nor acceptation want.</l>
                </lg>
                <lg n="6">
-                  <pb n="195" facs="tcp:000158_0189_0FA2B400455FA7F8"/>
+                  <pb n="195" facs="unknown:000158_0189_0FA2B400455FA7F8"/>
                   <head>[6]</head>
                   <l>Much less will Christ forget<note place="margin">Heb 6.10 <hi>compared with</hi> Heb. <gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
@@ -7095,7 +7095,7 @@
                   <l>Christ, doubtless, will obtain.</l>
                </lg>
                <lg n="9">
-                  <pb n="196" facs="tcp:000158_0190_0FA2B4018811B450"/>
+                  <pb n="196" facs="unknown:000158_0190_0FA2B4018811B450"/>
                   <head>[9]</head>
                   <l>As surely then as He</l>
                   <l>Reproach and Shame endur'd,</l>
@@ -7123,7 +7123,7 @@
                   <l>That he may be admir'd.</l>
                </lg>
                <lg n="2">
-                  <pb n="197" facs="tcp:000158_0191_0FA2B40194F1E0A0"/>
+                  <pb n="197" facs="unknown:000158_0191_0FA2B40194F1E0A0"/>
                   <head>[2]</head>
                   <l>God's wayes are not like ours,<note place="margin">Isa. 55.8. Eph. 1.6, 14. Rev. 5.12.</note>
                   </l>
@@ -7163,7 +7163,7 @@
                   <l>May shine more clear and bright.</l>
                </lg>
                <lg n="5">
-                  <pb n="198" facs="tcp:000158_0192_0FA2B402469D0DE0"/>
+                  <pb n="198" facs="unknown:000158_0192_0FA2B402469D0DE0"/>
                   <head>[5]</head>
                   <l>O glorious, rich Free-grace!</l>
                   <l>And Everlasting Love,</l>
@@ -7203,7 +7203,7 @@
                   <l>And gloriously adorn'd.</l>
                </lg>
                <lg n="8">
-                  <pb n="199" facs="tcp:000158_0193_0FA2B4030C277B10"/>
+                  <pb n="199" facs="unknown:000158_0193_0FA2B4030C277B10"/>
                   <head>[8]</head>
                   <l>That such as have deserv'd</l>
                   <l>God's vengeance for to bear</l>
@@ -7243,7 +7243,7 @@
                </lg>
             </div>
             <div n="4" type="song">
-               <pb n="200" facs="tcp:000158_0194_0FA2B403CDD1F6C0"/>
+               <pb n="200" facs="unknown:000158_0194_0FA2B403CDD1F6C0"/>
                <head>SONG IV.</head>
                <lg n="1">
                   <head>[1]</head>
@@ -7269,7 +7269,7 @@
                   <l>In perfect Victory.</l>
                </lg>
                <lg n="3">
-                  <pb n="201" facs="tcp:000158_0195_0FA2B40484408428"/>
+                  <pb n="201" facs="unknown:000158_0195_0FA2B40484408428"/>
                   <head>[3]</head>
                   <l>It is at present sown<note place="margin">1 Cor. 15.42, 43, 44.</note>
                   </l>
@@ -7307,7 +7307,7 @@
                   <l>With Heavenly Glory dight.</l>
                </lg>
                <lg n="6">
-                  <pb n="202" facs="tcp:000158_0196_0FA2B40537898F50"/>
+                  <pb n="202" facs="unknown:000158_0196_0FA2B40537898F50"/>
                   <head>[6]</head>
                   <l>And if the Body shew</l>
                   <l>So beautiful and faire:</l>
@@ -7344,7 +7344,7 @@
                   <l>The sweetness of his Love.</l>
                </lg>
                <lg n="9">
-                  <pb n="203" facs="tcp:000158_0197_0FA2B406A8D07C80"/>
+                  <pb n="203" facs="unknown:000158_0197_0FA2B406A8D07C80"/>
                   <head>[9]</head>
                   <l>If <hi>Moses</hi> face did shine<note place="margin">Exod. 34.29, 30.</note>
                   </l>
@@ -7383,7 +7383,7 @@
                </lg>
             </div>
             <div n="5" type="song">
-               <pb n="204" facs="tcp:000158_0198_0FA2B406BAB18728"/>
+               <pb n="204" facs="unknown:000158_0198_0FA2B406BAB18728"/>
                <head>SONG V.</head>
                <lg n="1">
                   <head>[1]</head>
@@ -7413,7 +7413,7 @@
                   <l>At God's right hand on high.</l>
                </lg>
                <lg n="3">
-                  <pb n="205" facs="tcp:000158_0199_0FA2B407A107A488"/>
+                  <pb n="205" facs="unknown:000158_0199_0FA2B407A107A488"/>
                   <head>[3]</head>
                   <l>And though some Gospellers</l>
                   <l>Call this an Hireling Spirit:</l>
@@ -7451,7 +7451,7 @@
                   <l>The way to Negligence?</l>
                </lg>
                <lg n="6">
-                  <pb n="206" facs="tcp:000158_0200_0FA2B40A69165B38"/>
+                  <pb n="206" facs="unknown:000158_0200_0FA2B40A69165B38"/>
                   <head>[6]</head>
                   <l>
                      <note place="margin">Heb. 11.24, 25, 26.</note>Unto this Recompence</l>
@@ -7491,7 +7491,7 @@
                   </l>
                </lg>
                <lg n="9">
-                  <pb n="207" facs="tcp:000158_0201_0FA2B40B97847A30"/>
+                  <pb n="207" facs="unknown:000158_0201_0FA2B40B97847A30"/>
                   <head>[9]</head>
                   <l>More readily to do</l>
                   <l>And willingly to bear</l>
@@ -7530,7 +7530,7 @@
                   <l>Not subject unto chance.</l>
                </lg>
                <lg n="12">
-                  <pb n="208" facs="tcp:000158_0202_0FA2B40CF6C97F58"/>
+                  <pb n="208" facs="unknown:000158_0202_0FA2B40CF6C97F58"/>
                   <head>[12]</head>
                   <l>Good Lord increase our Faith:</l>
                   <l>And help us to believe,</l>
